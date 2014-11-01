@@ -1,0 +1,42 @@
+# depslib dependency file v1.0
+1406679674 source:/home/turupawn/Projects/Codeblocks/Clases/EstructuraDeDatos/Tarea3/Evaluador.cpp
+	"Evaluador.h"
+
+1406679514 /home/turupawn/Projects/Codeblocks/Clases/EstructuraDeDatos/Tarea3/Evaluador.h
+	<iostream>
+	<vector>
+	<set>
+	<map>
+
+1406679683 source:/home/turupawn/Projects/Codeblocks/Clases/EstructuraDeDatos/Tarea3/main.cpp
+	"Evaluador.h"
+	<iostream>
+	<vector>
+	<set>
+	<map>
+
+1414199427 source:/home/turupawn/Projects/Codeblocks/Clases/Estructura/Tarea3/Evaluador.cpp
+	"Evaluador.h"
+
+1414197581 /home/turupawn/Projects/Codeblocks/Clases/Estructura/Tarea3/Evaluador.h
+	<iostream>
+	<vector>
+	<set>
+	<map>
+
+1414199195 source:/home/turupawn/Projects/Codeblocks/Clases/Estructura/Tarea3/main.cpp
+	"Evaluador.h"
+	<iostream>
+	<vector>
+	<set>
+	<map>
+
+1414196244 source:c:\users\marcos pineda\desktop\estructuratarea3-master\estructuratarea3-master\evaluador.cpp
+	"Evaluador.h"
+
+1414196244 c:\users\marcos pineda\desktop\estructuratarea3-master\estructuratarea3-master\evaluador.h
+	<iostream>
+	<vector>
+	<set>
+	<map>
+
